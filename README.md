@@ -1,3 +1,3 @@
 # easySoftware_internProject
 
-Intern initiated on the date 12:18 PM
+Intern initiated on the date 6/30/2024
